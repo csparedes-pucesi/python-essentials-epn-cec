@@ -34,3 +34,7 @@ elif age >= 65:
     print("Eres une abuele calmade")
 else:
     print("Ingrese bien la información por favor")
+    
+    
+    
+    

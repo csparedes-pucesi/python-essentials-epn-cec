@@ -22,7 +22,8 @@
 
 - docs: it's save all documents
 - notes: all exercises made in class
-
+- Cuaderno: allows the final project in Jupiter notebook
+- activities: contains the task sended to review
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
